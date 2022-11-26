@@ -1,0 +1,20 @@
+.cache/
+coverage/
+dist/*
+!dist/index.html
+!dist/styles.css
+!dist/assets
+node_modules/
+*.log
+sample_tests/
+.env
+config
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

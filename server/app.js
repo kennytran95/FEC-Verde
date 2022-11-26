@@ -7,5 +7,5 @@ const port = 8080;
 app.use(express.static(path.join(__dirname, '../dist')));
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Verde is running on port ${port}`);
 });

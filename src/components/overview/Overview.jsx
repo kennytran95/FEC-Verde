@@ -43,6 +43,7 @@ export default function Overview({ setLocalCart, setShowDrawer, productID }) {
     });
     axios
       .get(`${url}products/${productID}`, {
+        // .get(`http://localhost:3000/products/${productID}`, {
         headers: { Authorization: config.TOKEN },
       })
       .then((res) => {

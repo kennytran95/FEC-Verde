@@ -12,10 +12,11 @@ Verde is a project created by the team to flex our front-end development skills.
 
 ## Contributors
 
+- [Kenny Tran](https://github.com/kennytran95) - Ratings & Reviews
 - [Andres Arango](https://github.com/arangotang) - Overview + Cart
 - [Ryan Snow](https://github.com/r-snow) - Related Items + Ratings & Reviews
 - [Linna Li](https://github.com/lucky89nana) - Questions & Answers
-- [Kenny Tran](https://github.com/kennytran95) - Ratings & Reviews
+
 
 ## Technologies Used
 
